@@ -1,0 +1,9 @@
+.root {
+    -fx-background-image: url("../../resources/images/XLPlus_BGND_FIX.jpg") center fixed no-repeat;
+    -fx-background-radius: 3px ;
+    -fx-background-color: transparent, transparent, -fx-background ;
+    -fx-fill: transparent;
+    -fx-border-color: rgb(118, 159, 236);
+    -fx-border-radius: 3px;
+    -fx-border-width: 1px;
+}
